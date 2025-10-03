@@ -1,0 +1,5 @@
+echo "Objetivo: usar el repo como nube personal y universitaria." > personal/nota1.txt
+
+echo "Pendiente: subir primer archivo de universidad." >> personal/nota1.txt
+
+
